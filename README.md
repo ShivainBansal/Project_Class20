@@ -1,2 +1,2 @@
-# Project_Class20
-Project_Class20
+# p5.play-boilerplate
+Boiler plate for p5.play
